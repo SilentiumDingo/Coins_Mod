@@ -1,3 +1,5 @@
 {
-  "item.coinsmod.coppercoin": "Copper Coin "
+  "item.coinsmod.coppercoin": "Copper Coin",
+  "item.coinsmod.silvercoin": "Silver Coin",
+  "item.coinsmod.goldcoin": "Gold Coin"
 }
